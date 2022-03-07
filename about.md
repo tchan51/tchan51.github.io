@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Some information about you!
+I am a second-year Chemistry Major who is currently studying at Cal Poly in San Luis Obispo.
 
 ### More Information
 

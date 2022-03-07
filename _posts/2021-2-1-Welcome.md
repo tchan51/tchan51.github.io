@@ -2,4 +2,4 @@
 layout: post
 title: Welcome!
 ---
-You can change the title above if you want to and then write your content.  
+On this website, you can learn a few things about me
